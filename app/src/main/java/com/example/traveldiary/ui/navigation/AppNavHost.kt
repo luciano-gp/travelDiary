@@ -9,8 +9,6 @@ import com.example.traveldiary.ui.screens.LoginScreen
 import com.example.traveldiary.ui.screens.SignUpScreen
 import com.example.traveldiary.ui.screens.TripFormScreen
 import com.example.traveldiary.ui.screens.TripsScreen
-// import com.example.traveldiary.ui.screens.TripFormScreen
-// import com.example.traveldiary.ui.screens.TripDetailScreen
 
 @Composable
 fun AppNavHost(
